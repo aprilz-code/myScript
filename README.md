@@ -3,12 +3,17 @@
 
 
 
-glados   
+## glados   
      main.py以及glados_check_in都可
 
+支持[server酱](https://sct.ftqq.com/)
+支持[pushplus](https://www.pushplus.plus/)
+推送
 
-星空代理签到
+## 星空代理签到
     xkdaili.py
+
+
 
 
 注册GLaDOS(注册地址在 https://github.com/glados-network/GLaDOS 实时更新), 并输入邀请码:

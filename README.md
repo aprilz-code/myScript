@@ -1,9 +1,12 @@
 # myScript
 自用脚本库
 
-
+【青龙】拉取仓库命令：`ql repo https://github.com/liroBoy/MT_fuli.git`
 
 ## glados 
+
+[使用教程](https://www.losey.top/archives/glados%E7%A7%91%E5%AD%A6%E5%B7%A5%E5%85%B7%E6%97%A0%E9%99%90%E7%BB%AD%E8%B4%B9)
+
 glados_check_in.py
 
 main.py  备用
@@ -21,7 +24,7 @@ main.py  备用
     xkdaili.py
 
 
-##小米运动
+##小米运动 支持邮箱和手机号
 xiaomi.py
 
 PMODE	推送模式,server酱推送:wx 新server酱推送:server tg推送:tg  PushPlus推送:pp 关闭推送:off
@@ -44,3 +47,8 @@ Server酱推送	填写server酱的推送key
 ~~企业微信推送	推送用户（可@all）-corpid-corpsecret-(agentid 空则为默认1000002)~~
 PushPlus推送	token
 关闭推送	off
+
+
+# 美团
+
+MT_TOKEN

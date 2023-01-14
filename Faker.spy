@@ -71,20 +71,20 @@ js_config:
   Wait: 2
 - Container:
   - []
-  Env: jd_cjhy_activityId
+  Env: jd_cjhydz_wxTeam_Id
   KeyWord:
   - - jd_cjhy_activityId
   Name: 【组队】CJ瓜分京豆
-  Script: shufflewzc_faker3_main/jd_cjzdgf.js
+  Script: shufflewzc_faker3_main/jd_cjhydz_wxTeam.js
   TimeOut: 0
   Wait: 5
 - Container:
   - []
-  Env: jd_zdjr_activityId
+  Env: jd_lzkjdz_wxTeam_Id
   KeyWord:
   - - jd_zdjr_activityId
   Name: 【组队】ZJ瓜分京豆
-  Script: shufflewzc_faker3_main/jd_zdjr.js
+  Script: shufflewzc_faker3_main/jd_lzkjdz_wxTeam.js
   TimeOut: 0
   Wait: 5
 - Container:

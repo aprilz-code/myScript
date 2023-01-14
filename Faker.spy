@@ -749,3 +749,14 @@ js_config:
   Script: shufflewzc_faker3_main/jd_txzj_lottery.js
   TimeOut: 180
   Wait: 2
+- Container:
+  - []
+  Disable: 0
+  Env: jd_wxShareActivity_activityId
+  KeyWord:
+  - - jd_wxShareActivity_activityId
+  Name: 【Faker】分享有礼 · 超级无线
+  OverdueTime: 1800
+  Script: shufflewzc_faker3_main/jd_wxShareActivity.js
+  TimeOut: 0
+  Wait: 2

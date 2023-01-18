@@ -621,7 +621,9 @@ js_config:
   Env: jd_lzkjInteractId
   KeyWord:
   - - jd_lzkjInteractId
-  Name: 【船长】Interact邀请有礼
+  - - jd_lzkjInteractId
+  Name: 【船长修改】Interact邀请有礼
+  RegularRules: 'lzkj@[\d|a-z]{19}@0'
   Script: shufflewzc_faker3_main/jd_lzkjInteract.py
   TimeOut: 0
   Wait: 2
@@ -760,3 +762,4 @@ js_config:
   Script: shufflewzc_faker3_main/jd_wxShareActivity.js
   TimeOut: 0
   Wait: 2
+

@@ -32,7 +32,7 @@ try:
     params = {
         'action': 'user_receive_point',
     }
-    # 按照空格分隔多个账户
+    # 按照&分隔多个账户
     accounts = xingkong.split("&")
     for i in accounts:
         up = i.split(":")

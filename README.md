@@ -61,4 +61,10 @@ PushPlus推送	token
 MT_TOKEN
 
 
+# 顺丰速运
+
+变量：  
+sfsyUrl
+
+
 Faker.spy懂的自然懂

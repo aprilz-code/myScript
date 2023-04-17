@@ -66,5 +66,10 @@ MT_TOKEN
 变量：  
 sfsyUrl
 
+# 阿里云盘
+
+变量：  
+ALI_REFRESH_TOKEN
+> 注意是refretoken ,登录后F12在localitemstorage点击token即可看到
 
 Faker.spy懂的自然懂

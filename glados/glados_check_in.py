@@ -30,7 +30,7 @@ class Gladosci:
     def check_in(self) -> None:
         """打卡"""
         cookie = os.environ["GLADOS_COOKIE"]
-        data = {"token": "glados.network"}
+        data = {"token": "glados.one"}
         url = "https://glados.rocks/api/user/checkin"
         headers = {
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit\
